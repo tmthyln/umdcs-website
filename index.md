@@ -11,4 +11,6 @@ CS Master's student. Machine learning researcher. Julia enthusiast.
 
 ## Research
 
-## Contact
+## Teaching
+* CMSC131 (current)
+* CMSC132
