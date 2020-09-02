@@ -2,7 +2,8 @@ name: Deploy to UMD Junkfood Server
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
 
 jobs:
   deploy:
@@ -12,11 +13,22 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - name: Checkout Project Files
+        uses: actions/checkout@v2
+      - name: Install Julia
+        uses: julia-actions/setup-julia@v1
+        with:
+          version: 1.5
+      - name: Generate Static Site
+        run: julia -e '
+          using Pkg; Pkg.add(["NodeJS", "Franklin"]);
+          using NodeJS; run(`$(npm_cmd()) install highlight.js`);
+          using Franklin;
+          Pkg.activate("."); Pkg.instantiate();
+          optimize()'
       - name: ssh deploy
         uses: easingthemes/ssh-deploy@v2.1.4
         with:
-          # Private Key
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
