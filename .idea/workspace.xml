@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd056f96-4ea8-4940-b77f-577b4ad4949a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_assets/cmsc131fall2020/week1lab1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/cmsc131fall2020/week1lab1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.md" beforeDir="false" afterPath="$PROJECT_DIR$/config.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1598048128511" duration="9472000" />
       <workItem from="1598125431594" duration="3930000" />
       <workItem from="1598983912313" duration="113000" />
-      <workItem from="1599079247165" duration="1613000" />
+      <workItem from="1599079247165" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="initial website">
       <created>1598054770466</created>
