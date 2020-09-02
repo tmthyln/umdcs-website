@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd056f96-4ea8-4940-b77f-577b4ad4949a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_assets/cmsc131fall2020/week1lab1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layout/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layout/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_assets/cmsc131fall2020/week1lab1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/cmsc131fall2020/week1lab1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.md" beforeDir="false" afterPath="$PROJECT_DIR$/config.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +41,31 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Julia.Configuration" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tmthy\Documents\prog\umdcs-website\public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tmthy\Documents\prog\umdcs-website\_assets" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +80,7 @@
       <workItem from="1598048128511" duration="9472000" />
       <workItem from="1598125431594" duration="3930000" />
       <workItem from="1598983912313" duration="113000" />
-      <workItem from="1599079247165" duration="596000" />
+      <workItem from="1599079247165" duration="1613000" />
     </task>
     <task id="LOCAL-00001" summary="initial website">
       <created>1598054770466</created>
