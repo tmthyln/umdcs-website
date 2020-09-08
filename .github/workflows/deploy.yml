@@ -26,9 +26,9 @@ jobs:
           using Franklin;
           Pkg.activate("."); Pkg.instantiate();
           optimize()'
-      - name: Public Files
+      - name: Include Public Files
         run: cp -r ./public/* ./__site/
-      - name: ssh deploy
+      - name: Deploy to UMD CS Server over SSH
         uses: easingthemes/ssh-deploy@v2.1.4
         with:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
