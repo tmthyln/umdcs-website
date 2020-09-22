@@ -64,6 +64,7 @@
       <workItem from="1599079247165" duration="4004000" />
       <workItem from="1599199390425" duration="41000" />
       <workItem from="1600224887505" duration="702000" />
+      <workItem from="1600449661237" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="initial website">
       <created>1598054770466</created>
@@ -93,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598060377714</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="week 3 lab materials">
+      <created>1600449687122</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600449687122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,17 +112,18 @@
     <MESSAGE value="site files" />
     <MESSAGE value="update gitignore" />
     <MESSAGE value="minor updates to main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor updates to main page" />
+    <MESSAGE value="week 3 lab materials" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 lab materials" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="198" key="#Plugins" timestamp="1598048107519">
       <screen x="0" y="0" width="2194" height="1234" />
     </state>
     <state x="391" y="198" key="#Plugins/0.0.2194.1234/3840.0.1920.1080@0.0.2194.1234" timestamp="1598048107519" />
-    <state x="213" y="39" key="CommitChangelistDialog2" timestamp="1598060376070">
+    <state x="213" y="39" key="CommitChangelistDialog2" timestamp="1600449685566">
       <screen x="0" y="0" width="2194" height="1234" />
     </state>
-    <state x="213" y="39" key="CommitChangelistDialog2/0.0.2194.1234/3840.0.1920.1080@0.0.2194.1234" timestamp="1598060376070" />
+    <state x="213" y="39" key="CommitChangelistDialog2/0.0.2194.1234/3840.0.1920.1080@0.0.2194.1234" timestamp="1600449685566" />
     <state x="577" y="298" key="FileChooserDialogImpl" timestamp="1600224993682">
       <screen x="0" y="0" width="2194" height="1234" />
     </state>
@@ -123,10 +132,10 @@
       <screen x="0" y="0" width="2194" height="1234" />
     </state>
     <state x="307" y="202" key="SettingsEditor/0.0.2194.1234/3840.0.1920.1080@0.0.2194.1234" timestamp="1600224956454" />
-    <state x="210" y="286" key="Vcs.Push.Dialog.v2" timestamp="1598060381164">
+    <state x="210" y="286" key="Vcs.Push.Dialog.v2" timestamp="1600449696203">
       <screen x="0" y="0" width="2194" height="1234" />
     </state>
-    <state x="210" y="286" key="Vcs.Push.Dialog.v2/0.0.2194.1234/3840.0.1920.1080@0.0.2194.1234" timestamp="1598060381164" />
+    <state x="210" y="286" key="Vcs.Push.Dialog.v2/0.0.2194.1234/3840.0.1920.1080@0.0.2194.1234" timestamp="1600449696203" />
     <state x="434" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598057691715">
       <screen x="0" y="0" width="2194" height="1234" />
     </state>
