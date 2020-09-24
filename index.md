@@ -3,14 +3,12 @@
 
 # About
 
-\tableofcontents
-
 CS Master's student. Machine learning researcher. Julia enthusiast.
 
-## Research Focus
+Welcome to my academic website!
 
 ## Research
 
 ## Teaching
-* CMSC131 (current)
-* CMSC132
+* CMSC131 (TA, current)
+* CMSC132 (TA)

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd056f96-4ea8-4940-b77f-577b4ad4949a" name="Default Changelist" comment="" />
+    <list default="true" id="fd056f96-4ea8-4940-b77f-577b4ad4949a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week1lab1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week2lab1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week2lab1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week3lab1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week3lab2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week3lab2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/__site/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/menu1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/menu1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/menu2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/menu2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/menu3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/menu3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/tag/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/tag/code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/tag/image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/tag/image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__site/tag/syntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/tag/syntax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +88,7 @@
       <workItem from="1599199390425" duration="41000" />
       <workItem from="1600224887505" duration="702000" />
       <workItem from="1600449661237" duration="325000" />
+      <workItem from="1600987288609" duration="2095000" />
     </task>
     <task id="LOCAL-00001" summary="initial website">
       <created>1598054770466</created>
