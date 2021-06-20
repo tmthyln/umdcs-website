@@ -1,0 +1,19 @@
+{
+  "name": "umdcs-website",
+  "version": "1.0.0",
+  "description": "Academic website for UMD CS.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmthyln/umdcs-website.git"
+  },
+  "author": "Tim Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmthyln/umdcs-website/issues"
+  },
+  "homepage": "https://github.com/tmthyln/umdcs-website#readme",
+  "dependencies": {
+    "highlight.js": "^11.0.1"
+  }
+}

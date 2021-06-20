@@ -2,28 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd056f96-4ea8-4940-b77f-577b4ad4949a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week1lab1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week2lab1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week2lab1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week3lab1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week3lab2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week3lab2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__site/public/cmsc131fall2020/week4lab2.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_assets/personal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/__site/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/menu1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/menu1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/menu2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/menu2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/menu3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/menu3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/tag/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/tag/code/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/tag/image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/tag/image/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__site/tag/syntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/__site/tag/syntax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layout/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layout/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layout/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layout/style.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/fibonaccimm.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week10lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week11lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week11lab2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week1lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week2lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week2lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week3lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week3lab2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week3lab2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week4lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week4lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week4lab2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week4lab2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week5lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week5lab2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week6lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week6lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week7lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week7lab1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cmsc131fall2020/week9lab1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +53,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,6 +70,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,6 +98,7 @@
       <workItem from="1600224887505" duration="702000" />
       <workItem from="1600449661237" duration="325000" />
       <workItem from="1600987288609" duration="2095000" />
+      <workItem from="1624220892929" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="initial website">
       <created>1598054770466</created>
@@ -130,6 +140,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial website" />
