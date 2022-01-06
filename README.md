@@ -1,6 +1,8 @@
-# Personal Academic Website, Hosted on UMD CS
+# Personal Academic Website (Archived)
 
-Academic website hosted at at cs.umd.edu/~tlin.
+Academic website hosted at cs.umd.edu/~tlin. 
+However, following graduation, I probably don't have access to it anymore,
+so the site will just be a redirect to my main website.
 
-
-The site is built with Franklin.js.
+I'm kept the original source here, archived, just in case 
+(but there's not much there anyway, as I rarely updated the site).
